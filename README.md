@@ -2,7 +2,9 @@
 data cleaning and BI level queries 
 
 SQL Data Analysis and Cleaning Project
+
 Overview
+
   This project involves data analysis and cleaning performed on item data. The goal was to extract insights, perform data cleaning, and create meaningful BI reports using SQL queries. The project demonstrates skills in data manipulation, aggregation, filtering, and presentation at a BI and data analyst level.
 
 Project Highlights
