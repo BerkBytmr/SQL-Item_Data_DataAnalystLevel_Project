@@ -24,4 +24,4 @@ Features
   Data cleaning techniques (handling nulls, duplicates, formatting)
   Analytical queries (e.g., total sales, average sales, top items)
   BI-level reporting queries (grouping, filtering, ranking)
-  Data summarization and trend analysis
+  Data summarization and trend analysis 
